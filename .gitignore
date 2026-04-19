@@ -1,0 +1,20 @@
+# API Keys and Secrets
+.env
+*.env
+auth.sh
+secrets.txt
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+.ask_cache/
