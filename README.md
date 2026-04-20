@@ -17,4 +17,4 @@ Clone the repository and make the script executable:
 ```bash
 git clone https://github.com/calcisher/shell-llm-interface.git 20220602036_Hasan_Berk_Görgülü
 chmod +x ask
-```bash
+```
